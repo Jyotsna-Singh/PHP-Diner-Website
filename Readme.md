@@ -10,7 +10,7 @@ A simple PHP website for a fictional Diner. Dynamic Menu and dynamic store hours
 1.0.0
 
 ## Live Demo
- [Diner](http://jyotsna-singh-com.stackstaging.com/projects/php/Diner/)
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/php/Diner/)
 
 ## Snapshots
  
